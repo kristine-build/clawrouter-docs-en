@@ -1,6 +1,7 @@
 # Table of contents
 
-* [ai-model](README.md)
+* [API Reference](README.md)
+* [ai-model](<README (1).md>)
   * [models](ai-model/models/README.md)
     * [list](ai-model/models/list/README.md)
       * [Native OpenAI Format](ai-model/models/list/native-openai-format.md)
@@ -42,7 +43,6 @@
       * [Edit Image](ai-model/images/qwen/edit-image.md)
     * [gemini](ai-model/images/gemini/README.md)
       * [Gemini Native Format](ai-model/images/gemini/gemini-native-format.md)
-* [API Reference](api-reference.md)
 * [management](management/README.md)
   * [oauth](management/oauth/README.md)
     * [GitHub OAuth Login](management/oauth/github-oauth-login.md)
