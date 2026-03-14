@@ -121,4 +121,4 @@ Last updated on 3/1/2026
 Related:
 
 * [Create Video Generation TaskPOST\ \ Previous Page](create-video-generation-task.md)
-* [Jimeng Video GenerationPOST\ \ Next Page](ai-model/videos/jimeng/jimeng-video-generation.md)
+* [Jimeng Video GenerationPOST\ \ Next Page](/broken/pages/1995a265f86a17934e5711bda6f0180be1a2b920)

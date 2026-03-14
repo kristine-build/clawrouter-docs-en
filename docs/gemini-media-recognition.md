@@ -50,9 +50,9 @@ Content-Type: application/json
 
     (Reference: https://docs.newapi.pro/en/docs/api/ai-model/chat/gemini/geminirelayv1beta-391536411#request-body)
 
-    ### Response Body
+    #### Response Body
 
-    #### 200 — application/json
+    **200 — application/json**
 
     Example response:
 
@@ -82,7 +82,7 @@ Content-Type: application/json
 
     (Reference: https://docs.newapi.pro/en/docs/api/ai-model/chat/gemini/geminirelayv1beta-391536411#response-body)
 
-    ### Examples
+    #### Examples
 
     cURL
 

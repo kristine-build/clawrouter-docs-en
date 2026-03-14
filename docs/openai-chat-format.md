@@ -50,11 +50,11 @@ Required fields:
 
     * extra\_body? object
 
-    ### Response Body
+    #### Response Body
 
     [Response Body](openai-chat-format.md#response-body)
 
-    #### 200 application/json
+    **200 application/json**
 
     ```json
     {

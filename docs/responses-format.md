@@ -52,11 +52,11 @@ Content type: application/json
   Value in `"auto" | "disabled"`
 *   tools? array
 
-    ### Response Body
+    #### Response Body
 
     https://docs.newapi.pro/en/docs/api/ai-model/chat/openai/createresponse#response-body
 
-    #### 200 application/json
+    **200 application/json**
 
     cURL
 
